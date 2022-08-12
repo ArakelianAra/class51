@@ -1,0 +1,66 @@
+Decimal Number System
+    Decimal = 10
+    10 digits
+    0 - 9
+
+    56 
+    = 50 + 6
+    = 5*10^1 + 6*10^0
+
+    126
+    = 100 + 20 + 6
+    = 1 * 10^2 + 2 * 10^1 + 6 * 10^0
+
+    3526
+    = 3 * 10^3 + 5 * 10^2 + 2 * 10^1 + 6 * 10^0
+
+
+Binary Number System
+    Binary = 2
+    2 digits
+    0 - 1
+
+    10101
+    = 1 * 2^4 + 0 * 2^3 + 1 * 2^2 + 0 * 2^1 + 1 * 2^0
+    = 1*16 + 0 + 4 + 0 + 1
+    = 16+4+1
+    = 21
+
+
+
+Octal Number System
+    Octal = 8
+    8 digits
+    0 - 7
+
+Hexadecimal Number System
+    Hexa = 6
+    Decimal = 10
+    16 digits
+    0 - 9, A - F
+    A = 10
+    B = 11
+    C = 12
+    D = 13
+    E = 14
+    F = 15
+
+    FF
+
+    = F * 16^1 + F * 16^0
+    = 15*16 + 15*1
+    = 240 + 15
+    = 255
+
+    128 - decimal
+    128/16 = Q: 8, R: 0
+    8/16 = Q: 0, R: 8
+
+    80 - hexadecimal
+
+    4512 - decimal
+    4512/16= Q:282, R:0
+    282/16= Q:17, R:10
+    17/16= Q:1, R:1
+    1/16=Q:0 R:1
+    11A0 - hexadecimal
